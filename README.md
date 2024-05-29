@@ -7,11 +7,15 @@
  <br>
  <h4 align="center"> 숙박 업소 예약과 사용자 간 객실 거래가 가능한 플랫폼 "피서" </h4>
 
+<br>
+
 ## 서비스 소개
 피서 서비스는 야놀자, 여기어때 플랫폼에 '경매' 시스템을 도입한 서비스입니다. <br><br>
 피서 서비스는 이용자가 개인적인 사정으로 인해 숙박업소 예약을 취소해야 할 경우, 환불 규정에 따라 일부 금액을 돌려받는 대신, 예약을 경매에 올릴 수 있도록 합니다. <br><br>
 이를 통해 판매자는 환불 금액보다 높은 금액에 예약을 재판매할 수 있고, 구매자는 경매를 통해 저렴한 가격에 숙박업소를 이용할 수 있는 기회를 얻게 됩니다.<br><br>
 지금 당장 '피서'로 가장 합리적인 가격으로 숙박 업소를 이용해보세요 !<br><br>
+
+<br>
 
  ## 팀원 소개
  <table align="center">
@@ -54,11 +58,11 @@
 <img width="811" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/27401f8e-939d-4300-aefd-78a3f46168aa">
 </div>
 
-<br><br>
+<br><br><br>
 
 #### BackEnd
 <div align="center">
-<img width="765" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/c4d0a655-76cb-4cde-9123-dd7436906462">
+<img width="765" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/bfbcd628-68b4-42f2-9ccb-6189d437caa9">
 </div>
 
 <br><br>
