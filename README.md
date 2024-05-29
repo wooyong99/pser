@@ -66,10 +66,15 @@
 ## 아키텍처 구조
 #### Infra
 
+<div align="center">
 <img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/b7dd31a0-39f5-4ce5-8e76-a9cb012954f4">
+</div>
 
 
 #### CI/CD
 
-<img width="964" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/a753c919-7895-4150-932a-f7ea1ac2196f">
+<div align="center">
+ <img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/b4f41d76-82f7-4c47-9e99-fd4d8c854d38">
+</div>
+
 
