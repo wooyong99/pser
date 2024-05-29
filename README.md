@@ -67,7 +67,7 @@
 #### Infra
 
 <div align="center">
-<img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/b7dd31a0-39f5-4ce5-8e76-a9cb012954f4">
+<img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/6723cdb7-17d8-4ad8-baaa-7a2d3b5cc4d3">
 </div>
 
 
