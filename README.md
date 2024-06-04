@@ -71,9 +71,10 @@
 #### Infra
 
 <div align="center">
-<img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/6723cdb7-17d8-4ad8-baaa-7a2d3b5cc4d3">
+<img width="1048" alt="image" src="https://github.com/wooyong99/pser/assets/85385921/e4be07c1-a390-4039-a8fc-ffa229b0d1c7">
 </div>
 
+<br>
 
 #### CI/CD
 
